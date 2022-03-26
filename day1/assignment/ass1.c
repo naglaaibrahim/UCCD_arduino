@@ -1,2 +1,5 @@
 #include <stdio.h>
-void main() {}
+
+void main(){
+    printf ("      *\n     ***\n    *****\n   *******\n  *********\n ***********");
+}
