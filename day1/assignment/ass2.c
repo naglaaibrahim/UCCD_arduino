@@ -1,13 +1,14 @@
 #include <stdio.h>
 void main() {
-	int number 1,number 2,number 3;
-	printf("please enter number 1:");
-	scanf(" %d",&number 1);
-	printf("please enter number 2:");
-	scanf(" %d",&number 2);
-	printf("please enter number 3:");
-	scanf(" %d",&number 3);
-	printf("number 3:%d\n",number 3);
-	printf("number 2:%d\n",number 2);
-	printf("number 1:%d\n",number 1);
+	int number1, number2, number3;
+	printf("enter the first number 1:");
+	scanf(" %d",&number1);
+	printf("enter the first number 2:");
+	scanf(" %d",&number2);
+	printf("enter the first number 3:");
+	scanf(" %d",&number3);
+	printf("the number 3 is :%d\n",number3);
+	printf("the number 2 is :%d\n",number2);
+	printf("the number 1 is :%d\n",number1);
+	
 }
